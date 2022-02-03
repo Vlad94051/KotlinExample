@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KotlinExample</string>
+    <string name="main_toast_message">message</string>
+</resources>
